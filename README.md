@@ -7,11 +7,6 @@ I am currently pursuing a Master of Science in Health Care Analytics & Informati
 
 Outside of work and study, I'm a strength training enthusiast and avid learner of nutrition and physiology. Whether I'm tracking my macros in the gym or analyzing healthcare datasets, my approach is intentional and thorough. I love connecting with others who are interested in the intersection of healthcare, data science and patient centered care, and I'm always eager to explore new opportunities and learn from peers.  
 
-# What I hope to learn  
-- **Using Tableau to visualize data** – gaining proficiency in Tableau so I can build interactive dashboards and communicate insights clearly.  
-- **Learning different perspectives on how to critique visualizations and be creative in improving them** – developing a critical eye for design and learning to iterate on visualizations using feedback from peers.  
-- **Developing clear, compelling narratives with data and conducting user research to ensure those stories resonate** – based on the syllabus, I'm especially interested in crafting persuasive narratives for specific audiences and using user research to make sure my visualizations are effective.  
-
 # Portfolio  
 
 ## Assignment 1: Visualizing Government Debt  
