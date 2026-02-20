@@ -1,4 +1,4 @@
-| [Home Page](https://joannachang1028.github.io/JoannaChang-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) |
+| [Home Page](README.md) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final project I](final-project-part-one.md) | [Final project II](final-project-part-two.md) | [Final project III](final-project-part-three.md) |
 
 # About me  
 As a life-long learner, my journey from fast-moving consumer goods to medical devices and ultimately pharmaceuticals has been a deliberate path to deepen my understanding of healthcare. With five years of experience across Johnson & Johnson and Merck KGaA, I have immersed myself in anatomy and surgical procedures to support surgeons with targeted solutions and expanded my focus to oncology, gaining a holistic view of the patient journey. These experiences ignited my passion for healthcare policy and analytics and convinced me of the power of data to improve patient outcomes.  
@@ -10,7 +10,7 @@ Outside of work and study, I'm a strength training enthusiast and avid learner o
 # Portfolio  
 
 ## Assignment 1: Visualizing Government Debt  
-[Visualizing Government Debt](visualizing-government-debt)  
+[Visualizing Government Debt](visualizing-government-debt.md)
 
 In this assignment, I constructed an OECD government debt heatmap (2007–2024) to provide a broad, comparative view of how debt-to-GDP ratios have shifted across countries over time. While the heatmap effectively highlighted overall patterns and periods of rapid change, it was less suited for explaining deeper structural differences among regions.
 
@@ -21,7 +21,7 @@ The redesign uses a dual-line approach: thin lines for individual countries and 
 
 
 ## Assignment 2: Critique by Design
-[Critique by Design](critique-by-design)
+[Critique by Design](critique-by-design.md)
 
 For Assignment 2, I conducted an in-depth critique and redesign of the "HPV vaccination: How the world can eliminate cervical cancer" visualization series published by Our World in Data. My analysis identified that while individual charts were clear and effective, there was a lack of narrative cohesion and integrated context across the series.
 
