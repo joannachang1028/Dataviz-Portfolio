@@ -1,4 +1,4 @@
-| [Home Page](https://joannachang1028.github.io/JoannaChang-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) |
+| [Home Page](README.md) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final project I](final-project-part-one.md) | [Final project II](final-project-part-two.md) | [Final project III](final-project-part-three.md) |
 
 # Data visualization examples
 
